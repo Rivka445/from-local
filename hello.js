@@ -19,3 +19,7 @@ const c=()=>{
     console.log("function c")
 
 }
+const e=()=>{
+    alert("e")
+
+}
